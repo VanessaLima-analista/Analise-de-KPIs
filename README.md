@@ -1,4 +1,20 @@
 # Analise-de-KPIs
+
+Este repositório traz um simulador em formato de estudo de caso, pensado para treinar habilidades de análise de dados aplicada a problemas de negócio.
+O objetivo é colocar você na posição de um analista, enfrentando desafios reais do dia a dia, como:
+
+interpretar planilhas cheias de informações,
+
+calcular indicadores de desempenho,
+
+identificar gargalos de produção
+
+analisar canais de venda,
+
+apoiar decisões estratégicas com base em dados.
+
+As perguntas propostas foram construídas com base em dados simulados de uma empresa do setor de confecção e seguem a linha de resolução de problemas práticos, comuns no mercado.
+
 # Simulador - O Despertar de um Analista de Dados
 
 ## Cenário
